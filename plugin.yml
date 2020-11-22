@@ -1,0 +1,8 @@
+main: fr.enissay.Hub
+name: HubTest
+version: 1.0.0
+author: Enissay
+
+commands:
+  funex:
+  definefunex:
